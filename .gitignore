@@ -1,0 +1,15 @@
+# Python-Cache-Dateien
+__pycache__/
+*.pyc
+
+# Virtuelle Umgebungen
+env/
+venv/
+
+# IDE-Dateien
+.idea/
+.vscode/
+
+# System-Dateien (Windows/Mac)
+.DS_Store
+Thumbs.db
